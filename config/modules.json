@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ai-engineering-productivity-command-center",
+    "name": "Engineering productivity command center",
+    "sourceProject": "ai-engineering-productivity-command-center",
+    "services": []
+  },
+  {
+    "id": "ai-product-development-studio",
+    "name": "Product development studio",
+    "sourceProject": "ai-product-development-studio",
+    "services": []
+  },
+  {
+    "id": "AIProductivityHub",
+    "name": "Productivity hub",
+    "sourceProject": "AIProductivityHub",
+    "services": []
+  },
+  {
+    "id": "AIProductManagementCopilot",
+    "name": "Product management copilot",
+    "sourceProject": "AIProductManagementCopilot",
+    "services": []
+  },
+  {
+    "id": "AIProductManagementCopilot_v2",
+    "name": "Product management copilot v2",
+    "sourceProject": "AIProductManagementCopilot_v2",
+    "services": []
+  },
+  {
+    "id": "AIProductManagementCopilot_v3",
+    "name": "Product management copilot v3",
+    "sourceProject": "AIProductManagementCopilot_v3",
+    "services": []
+  },
+  {
+    "id": "AIProjectManager",
+    "name": "Project manager",
+    "sourceProject": "AIProjectManager",
+    "services": []
+  },
+  {
+    "id": "AIWorkflowCapture",
+    "name": "Workflow capture",
+    "sourceProject": "AIWorkflowCapture",
+    "services": []
+  },
+  {
+    "id": "dynamic-software-interfaces",
+    "name": "Dynamic software interfaces",
+    "sourceProject": "dynamic-software-interfaces",
+    "services": []
+  },
+  {
+    "id": "saas-challengers",
+    "name": "Saas challengers",
+    "sourceProject": "saas-challengers",
+    "services": []
+  },
+  {
+    "id": "software-for-agents",
+    "name": "Software for agents",
+    "sourceProject": "software-for-agents",
+    "services": []
+  }
+]

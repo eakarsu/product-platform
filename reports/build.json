@@ -1,0 +1,9 @@
+{
+  "app": "product-platform",
+  "features": 190,
+  "sourceApps": 11,
+  "calculatorEngines": 0,
+  "registryHash": "01514048d9d219f99f2325403c242733be8b77ce540433dee14cff87e55cdcde",
+  "builtAt": "2026-09-07T22:06:12.967Z",
+  "status": "built"
+}

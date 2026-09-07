@@ -1,0 +1,37 @@
+{
+  "id": "product-platform",
+  "title": "Product, projects & engineering operations",
+  "buyer": "Product and engineering management teams",
+  "sourceCount": 11,
+  "sources": [
+    "ai-engineering-productivity-command-center",
+    "ai-product-development-studio",
+    "AIProductivityHub",
+    "AIProductManagementCopilot",
+    "AIProductManagementCopilot_v2",
+    "AIProductManagementCopilot_v3",
+    "AIProjectManager",
+    "AIWorkflowCapture",
+    "dynamic-software-interfaces",
+    "saas-challengers",
+    "software-for-agents"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46058,
+  "productName": "Product, projects Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-engineering-productivity-command-center",
+    "/Volumes/external/projects/ai-product-development-studio",
+    "/Volumes/external/projects/AIProductivityHub",
+    "/Volumes/external/projects/AIProductManagementCopilot",
+    "/Volumes/external/projects/AIProductManagementCopilot_v2",
+    "/Volumes/external/projects/AIProductManagementCopilot_v3",
+    "/Volumes/external/projects/AIProjectManager",
+    "/Volumes/external/projects/AIWorkflowCapture",
+    "/Volumes/external/projects/dynamic-software-interfaces",
+    "/Volumes/external/projects/saas-challengers",
+    "/Volumes/external/projects/software-for-agents"
+  ]
+}

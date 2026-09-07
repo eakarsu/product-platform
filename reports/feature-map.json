@@ -1,0 +1,1779 @@
+{
+  "mapped": [
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "/flow",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "flow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "/quality",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "/ai-usage",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "usage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "/spend",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "spend",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "Repository",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "repository",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "PullRequest",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "pull-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "ReviewCycle",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "review-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "DefectRecord",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "defect-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "AgentSession",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "agent-session",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "TokenUsage",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "token-usage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "CycleTimeMetric",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "cycle-time-metric",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "SpendReport",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "spend-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "AgentAnomaly",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "agent-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "EngineerProfile",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "engineer-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "QualityGate",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "quality-gate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "SpendAlert",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "spend-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "flow-brief",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "flow-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "agent-audit",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "agent-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-engineering-productivity-command-center",
+      "sourceKey": "roi-compare",
+      "source": "/Volumes/external/projects/ai-engineering-productivity-command-center/src/config/app.ts",
+      "canonical": "roi-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "/discovery",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "discovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "/definition",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "definition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "/build",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "build",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "/ship",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "ship",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "ProductArea",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "product-area",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "CustomerProblem",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "customer-problem",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "ProductOpportunity",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "product-opportunity",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "Specification",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "specification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "Prototype",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "prototype",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "TestPlan",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "test-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "PullRequestDraft",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "pull-request-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "ApprovalGate",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "approval-gate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "FeedbackSignal",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "feedback-signal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "ReleaseCandidate",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "release-candidate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "MetricMovement",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "metric-movement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "DesignReview",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "design-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "problem-cluster",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "problem-cluster",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "spec-draft",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "spec-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-product-development-studio",
+      "sourceKey": "pr-draft",
+      "source": "/Volumes/external/projects/ai-product-development-studio/src/config/app.ts",
+      "canonical": "pr-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/bookmarks",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "bookmarks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/file-organizer",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "file-organizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/password-auditor",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "password-auditor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/digital-detox",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "digital-detox",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/focus-timer",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "focus-timer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/habits",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "habits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/goals",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "/engineering-velocity",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "canonical": "engineering-velocity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "bookmarks",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/pages/Dashboard.js",
+      "canonical": "bookmarks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "files",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/pages/Dashboard.js",
+      "canonical": "file-organizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "passwords",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/pages/Dashboard.js",
+      "canonical": "password-auditor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "detox",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/pages/Dashboard.js",
+      "canonical": "detox",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "focus",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/pages/Dashboard.js",
+      "canonical": "focus-timer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "run",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "run",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "weekly-digest",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "weekly-digest",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "usage-stats",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "usage-stats",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "cross-insights",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "cross-insights",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "goal-progress-predict",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "goal-progress-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "usage-anomaly-detect",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "usage-anomaly-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductivityHub",
+      "sourceKey": "focus-boost-recommend",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "canonical": "focus-boost-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/roadmap",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/stories",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "stories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/sprints",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "sprints",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/stakeholders",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "stakeholders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/research",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "research",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/competitors",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/metrics",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/feedback",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/releases",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "releases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/abtests",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "abtests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/requirements",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "requirements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/risks",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/capacity",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "capacity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/okrs",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "okrs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/product-health",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "product-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/velocity-chart",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "velocity-chart",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/competitive-analysis-tool",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "competitive-analysis-tool",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/sprint-planner",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "sprint-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/release-notes",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "release-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/stakeholder-update",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "stakeholder-update",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/roadmap-gantt",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "roadmap-gantt",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/sprint-kanban",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "sprint-kanban",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/okr-tree",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "okr-tree",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/pm-chat",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "pm-chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/sentiment-analyze",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "sentiment-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/metric-anomaly-detect",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "metric-anomaly-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/feature-impact-predict",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "feature-impact-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/product-development-studio",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "product-development-studio",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/cf-agentic-pm-orchestration",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "agentic-pm-orchestration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/cf-continuous-customer-insight-synthesis",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "continuous-customer-insight-synthesis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/cf-roadmap-impact-simulator",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "roadmap-impact-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/cf-stakeholder-storytelling",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "stakeholder-storytelling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/cf-competitive-threat-detection",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "competitive-threat-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-feedback-without-sentiment",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "feedback-without-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-metrics-without-metric",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "metrics-without-metric",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-features-without-feature",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "features-without-feature",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-no-frontend-backend",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "frontend-backend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-limited-integration-with-analytics-platforms-mixpa",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "limited-integration-with-analytics-platforms-mixpa",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-no-native-jira-linear-sync",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "native-jira-linear-sync",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-no-native-slack-integration-for-updates",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "native-slack-integration-for-updates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-limited-user-research-tools-survey-integration",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "limited-user-research-tools-survey-integration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/gap-no-file-upload-for-research-artifacts",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "canonical": "file-upload-for-research-artifacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/stakeholders",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "stakeholders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/metrics",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/releases",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "releases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/abtests",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "abtests",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/requirements",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "requirements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/product-health",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "product-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/competitive-analysis-tool",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "competitive-analysis-tool",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/sprint-planner",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "sprint-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "/release-notes",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/Dashboard.js",
+      "canonical": "release-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Product Roadmap",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Feature Prioritization",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "feature-prioritization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "User Stories",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "stories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Sprint Planning",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "sprints",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Stakeholder Management",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "stakeholder-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Market Research",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "research",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Competitive Analysis",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Product Metrics & KPIs",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "product-metrics-kpis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Customer Feedback",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "customer-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Release Management",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "release-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "A/B Test Planning",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "a-b-test-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Product Requirements",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "product-requirements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Risk Assessment",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "Team Capacity",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "capacity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "sourceKey": "OKR Tracking",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/pages/FeaturePage.js",
+      "canonical": "okrs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProductManagementCopilot_v2",
+      "sourceKey": "AIProductManagementCopilot_v2",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot_v2",
+      "canonical": "aiproduct-management-copilot-v2",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIProductManagementCopilot_v3",
+      "sourceKey": "AIProductManagementCopilot_v3",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot_v3",
+      "canonical": "aiproduct-management-copilot-v3",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/sprints",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "sprints",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/risks",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/standups",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "standups",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/milestones",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/time-tracking",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "time-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/retrospectives",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "retrospectives",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIProjectManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "kanban",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "kanban",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "calendar",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "activity-log",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "project-health",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "project-health",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "standup-summary",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "standup-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "estimate-timeline",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "estimate-timeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "smart-assign",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "smart-assign",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "cf-agentic-sprint-planner",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "agentic-sprint-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "cf-realtime-burndown-streaming",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "realtime-burndown-streaming",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "cf-crossteam-resource-optimization",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "crossteam-resource-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "cf-meeting-recording-transcription",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "meeting-recording-transcription",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "cf-sentimentdriven-sprint-review",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "sentimentdriven-sprint-review",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-ai-timeline-estimation-under-velocitydepe",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "ai-timeline-estimation-under-velocitydepe",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-ai-autoassignment-by-skills-and-workload",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "ai-autoassignment-by-skills-and-workload",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-ai-meeting-transcript-summarization-to-ta",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "ai-meeting-transcript-summarization-to-ta",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-ai-burnoutsentiment-detection-across-stan",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "ai-burnoutsentiment-detection-across-stan",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-public-webhook-system-or-outbound-integra",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "public-webhook-system-or-outbound-integra",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-native-jiragithublinearslack-connectors",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "native-jiragithublinearslack-connectors",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-formal-rbac-matrix-granular-permission-ro",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "formal-rbac-matrix-granular-permission-ro",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-fileupload-route-attachments-rely-on-docu",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "fileupload-route-attachments-rely-on-docu",
+      "kind": "route"
+    },
+    {
+      "project": "AIProjectManager",
+      "sourceKey": "gap-no-ssooauth-provider-hookups",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "canonical": "ssooauth-provider-hookups",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/workflows",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "workflows",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/captured-steps",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "captured-steps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/replay-runs",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "replay-runs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/selector-library",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "selector-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/healing-events",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "healing-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/exceptions",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "exceptions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/capture-analyze",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "capture-analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/replay-plan",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "replay-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/self-heal",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "self-heal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/intent-classifier",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "intent-classifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/parameter-suggester",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "parameter-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/branch-detector",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "branch-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/exception-resolver",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "exception-resolver",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "/ai/workflow-merger",
+      "source": "/Volumes/external/projects/AIWorkflowCapture/frontend/src/pages/Dashboard.js",
+      "canonical": "workflow-merger",
+      "kind": "definition"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "wb/workflow-library",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "wb-workflow-library",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/demo-to-sop",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "demo-to-sop",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/action-classifier",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "action-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/automation-script-gen",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "automation-script-gen",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/gap-filler",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "filler",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/narrate-step",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "narrate-step",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/dedup-workflows",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "dedup-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "ai/continuous-improvement",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "continuous-improvement",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "recordings",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "recordings",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "permissions",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "permissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "redaction",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "redaction",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "marketplace",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "marketplace",
+      "kind": "route"
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "sourceKey": "role-dashboard",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "canonical": "role-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "dynamic-software-interfaces",
+      "sourceKey": "dynamic-software-interfaces",
+      "source": "/Volumes/external/projects/dynamic-software-interfaces",
+      "canonical": "dynamic-software-interfaces",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "users",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "matters",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "labels",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "labels",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "team_members",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "team",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "sprints",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "sprints",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "issues",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "issues",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "issue_labels",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "issue-labels",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "comments",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "comments",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "audit_log",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "audit",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "incumbents",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "incumbents",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "challengers",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "challengers",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "pricing_models",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "pricing-models",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "displacement_cases",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "displacement-cases",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "switching_costs",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "switching-costs",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "moats",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "moats",
+      "kind": "schema"
+    },
+    {
+      "project": "saas-challengers",
+      "sourceKey": "gap_features",
+      "source": "/Volumes/external/projects/saas-challengers",
+      "canonical": "features",
+      "kind": "schema"
+    },
+    {
+      "project": "software-for-agents",
+      "sourceKey": "agent-knowledge",
+      "source": "/Volumes/external/projects/software-for-agents/backend/db/migrations/001_tenant_agent_workflow.sql",
+      "canonical": "agent-knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "software-for-agents",
+      "sourceKey": "agent-questions",
+      "source": "/Volumes/external/projects/software-for-agents/backend/db/migrations/001_tenant_agent_workflow.sql",
+      "canonical": "agent-questions",
+      "kind": "definition"
+    },
+    {
+      "project": "software-for-agents",
+      "sourceKey": "agent-evaluations",
+      "source": "/Volumes/external/projects/software-for-agents/backend/db/migrations/001_tenant_agent_workflow.sql",
+      "canonical": "agent-evaluations",
+      "kind": "definition"
+    },
+    {
+      "project": "software-for-agents",
+      "sourceKey": "agent-tool-requests",
+      "source": "/Volumes/external/projects/software-for-agents/backend/db/migrations/001_tenant_agent_workflow.sql",
+      "canonical": "agent-tool-requests",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIProductivityHub",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIProductivityHub/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "history",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIProductivityHub",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductivityHub",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "/features",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": ":feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProductManagementCopilot",
+      "key": "features",
+      "source": "/Volumes/external/projects/AIProductManagementCopilot",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIProjectManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProjectManager",
+      "key": "/gap-no-documenttota[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIWorkflowCapture",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIWorkflowCapture",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "software-for-agents",
+      "key": "login",
+      "source": "/Volumes/external/projects/software-for-agents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "software-for-agents",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "software-for-agents",
+      "key": "workflow",
+      "source": "/Volumes/external/projects/software-for-agents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "software-for-agents",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "AIProductManagementCopilot_v2",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "AIProductManagementCopilot_v3",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "dynamic-software-interfaces",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

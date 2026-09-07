@@ -1,0 +1,11 @@
+ai-engineering-productivity-command-center
+ai-product-development-studio
+AIProductivityHub
+AIProductManagementCopilot
+AIProductManagementCopilot_v2
+AIProductManagementCopilot_v3
+AIProjectManager
+AIWorkflowCapture
+dynamic-software-interfaces
+saas-challengers
+software-for-agents

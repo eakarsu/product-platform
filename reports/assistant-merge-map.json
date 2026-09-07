@@ -1,0 +1,435 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "flow-brief",
+      "agent-audit",
+      "roi-compare",
+      "pull-request-draft",
+      "problem-cluster",
+      "spec-draft",
+      "pr-draft",
+      "release-notes",
+      "ai-meeting-transcript-summarization-to-ta",
+      "agent-knowledge",
+      "agent-questions"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 14 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "flow-brief",
+        "title": "Draft: Flow Briefing",
+        "originalPath": "/features/flow-brief"
+      },
+      {
+        "id": "agent-audit",
+        "title": "Draft: Agent Usage Auditor",
+        "originalPath": "/features/agent-audit"
+      },
+      {
+        "id": "roi-compare",
+        "title": "Draft: AI ROI Comparator",
+        "originalPath": "/features/roi-compare"
+      },
+      {
+        "id": "pull-request-draft",
+        "title": "PR Draft",
+        "originalPath": "/features/pull-request-draft"
+      },
+      {
+        "id": "problem-cluster",
+        "title": "Draft: Problem Clustering",
+        "originalPath": "/features/problem-cluster"
+      },
+      {
+        "id": "spec-draft",
+        "title": "Draft: Spec Drafter",
+        "originalPath": "/features/spec-draft"
+      },
+      {
+        "id": "pr-draft",
+        "title": "Draft: PR Drafter",
+        "originalPath": "/features/pr-draft"
+      },
+      {
+        "id": "release-notes",
+        "title": "Release Notes AI",
+        "originalPath": "/features/release-notes"
+      },
+      {
+        "id": "ai-meeting-transcript-summarization-to-ta",
+        "title": "ai meeting transcript summarization to ta",
+        "originalPath": "/features/ai-meeting-transcript-summarization-to-ta"
+      },
+      {
+        "id": "agent-knowledge",
+        "title": "Agent knowledge documents",
+        "originalPath": "/features/agent-knowledge"
+      },
+      {
+        "id": "agent-questions",
+        "title": "Agent questions & citations",
+        "originalPath": "/features/agent-questions"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "usage",
+      "review-cycle",
+      "requirements",
+      "product-health",
+      "velocity-chart",
+      "competitive-analysis-tool",
+      "sprint-planner",
+      "stakeholder-update",
+      "roadmap-gantt",
+      "sprint-kanban",
+      "okr-tree",
+      "pm-chat",
+      "feature-impact-predict",
+      "product-development-studio",
+      "aiproduct-management-copilot-v2",
+      "aiproduct-management-copilot-v3",
+      "ai-timeline-estimation-under-velocitydepe",
+      "replay-plan",
+      "self-heal",
+      "parameter-suggester",
+      "workflow-merger",
+      "demo-to-sop",
+      "automation-script-gen",
+      "filler",
+      "narrate-step",
+      "dedup-workflows",
+      "continuous-improvement",
+      "dynamic-software-interfaces"
+    ],
+    "ai": true,
+    "representativeId": "usage",
+    "description": "One assistant for 28 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "usage",
+        "title": "AI Usage",
+        "originalPath": "/features/usage"
+      },
+      {
+        "id": "review-cycle",
+        "title": "Review Cycle",
+        "originalPath": "/features/review-cycle"
+      },
+      {
+        "id": "requirements",
+        "title": "Requirements",
+        "originalPath": "/features/requirements"
+      },
+      {
+        "id": "product-health",
+        "title": "Product Health",
+        "originalPath": "/features/product-health"
+      },
+      {
+        "id": "velocity-chart",
+        "title": "Velocity Chart",
+        "originalPath": "/features/velocity-chart"
+      },
+      {
+        "id": "competitive-analysis-tool",
+        "title": "Competitor Tool",
+        "originalPath": "/features/competitive-analysis-tool"
+      },
+      {
+        "id": "sprint-planner",
+        "title": "Sprint Planner AI",
+        "originalPath": "/features/sprint-planner"
+      },
+      {
+        "id": "stakeholder-update",
+        "title": "Stakeholder Update",
+        "originalPath": "/features/stakeholder-update"
+      },
+      {
+        "id": "roadmap-gantt",
+        "title": "Roadmap Gantt",
+        "originalPath": "/features/roadmap-gantt"
+      },
+      {
+        "id": "sprint-kanban",
+        "title": "Sprint Kanban",
+        "originalPath": "/features/sprint-kanban"
+      },
+      {
+        "id": "okr-tree",
+        "title": "OKR Tree",
+        "originalPath": "/features/okr-tree"
+      },
+      {
+        "id": "pm-chat",
+        "title": "PM Chat Agent",
+        "originalPath": "/features/pm-chat"
+      },
+      {
+        "id": "feature-impact-predict",
+        "title": "Feature Impact",
+        "originalPath": "/features/feature-impact-predict"
+      },
+      {
+        "id": "product-development-studio",
+        "title": "Product Development Studio",
+        "originalPath": "/features/product-development-studio"
+      },
+      {
+        "id": "aiproduct-management-copilot-v2",
+        "title": "Product management copilot v2 work",
+        "originalPath": "/features/aiproduct-management-copilot-v2"
+      },
+      {
+        "id": "aiproduct-management-copilot-v3",
+        "title": "Product management copilot v3 work",
+        "originalPath": "/features/aiproduct-management-copilot-v3"
+      },
+      {
+        "id": "ai-timeline-estimation-under-velocitydepe",
+        "title": "ai timeline estimation under velocitydepe",
+        "originalPath": "/features/ai-timeline-estimation-under-velocitydepe"
+      },
+      {
+        "id": "replay-plan",
+        "title": "AI · Generate Replay Plan",
+        "originalPath": "/features/replay-plan"
+      },
+      {
+        "id": "self-heal",
+        "title": "AI · Self-Heal Failed Step",
+        "originalPath": "/features/self-heal"
+      },
+      {
+        "id": "parameter-suggester",
+        "title": "AI · Parameter Suggester",
+        "originalPath": "/features/parameter-suggester"
+      },
+      {
+        "id": "workflow-merger",
+        "title": "AI · Workflow Merger",
+        "originalPath": "/features/workflow-merger"
+      },
+      {
+        "id": "demo-to-sop",
+        "title": "Demo to sop",
+        "originalPath": "/features/demo-to-sop"
+      },
+      {
+        "id": "automation-script-gen",
+        "title": "Automation script gen",
+        "originalPath": "/features/automation-script-gen"
+      },
+      {
+        "id": "filler",
+        "title": "filler",
+        "originalPath": "/features/filler"
+      },
+      {
+        "id": "narrate-step",
+        "title": "Narrate step",
+        "originalPath": "/features/narrate-step"
+      },
+      {
+        "id": "dedup-workflows",
+        "title": "Dedup workflows",
+        "originalPath": "/features/dedup-workflows"
+      },
+      {
+        "id": "continuous-improvement",
+        "title": "Continuous improvement",
+        "originalPath": "/features/continuous-improvement"
+      },
+      {
+        "id": "dynamic-software-interfaces",
+        "title": "Dynamic software interfaces work",
+        "originalPath": "/features/dynamic-software-interfaces"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "goal-progress-predict",
+      "focus-boost-recommend",
+      "competitors",
+      "capture-analyze",
+      "intent-classifier",
+      "branch-detector",
+      "action-classifier"
+    ],
+    "ai": true,
+    "representativeId": "goal-progress-predict",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "goal-progress-predict",
+        "title": "Goal progress predict",
+        "originalPath": "/features/goal-progress-predict"
+      },
+      {
+        "id": "focus-boost-recommend",
+        "title": "Focus boost recommend",
+        "originalPath": "/features/focus-boost-recommend"
+      },
+      {
+        "id": "competitors",
+        "title": "Competitive Analysis",
+        "originalPath": "/features/competitors"
+      },
+      {
+        "id": "capture-analyze",
+        "title": "AI · Analyze Capture",
+        "originalPath": "/features/capture-analyze"
+      },
+      {
+        "id": "intent-classifier",
+        "title": "AI · Intent Classifier",
+        "originalPath": "/features/intent-classifier"
+      },
+      {
+        "id": "branch-detector",
+        "title": "AI · Branch Detector",
+        "originalPath": "/features/branch-detector"
+      },
+      {
+        "id": "action-classifier",
+        "title": "Action classifier",
+        "originalPath": "/features/action-classifier"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "risks",
+      "metric-anomaly-detect",
+      "exception-resolver"
+    ],
+    "ai": true,
+    "representativeId": "risks",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "risks",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risks"
+      },
+      {
+        "id": "metric-anomaly-detect",
+        "title": "Metric Anomaly",
+        "originalPath": "/features/metric-anomaly-detect"
+      },
+      {
+        "id": "exception-resolver",
+        "title": "AI · Exception Resolver",
+        "originalPath": "/features/exception-resolver"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "sentiment-analyze",
+      "sentimentdriven-sprint-review",
+      "ai-burnoutsentiment-detection-across-stan"
+    ],
+    "ai": true,
+    "representativeId": "sentiment-analyze",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sentiment-analyze",
+        "title": "Sentiment Analyze",
+        "originalPath": "/features/sentiment-analyze"
+      },
+      {
+        "id": "sentimentdriven-sprint-review",
+        "title": "sentimentdriven sprint review",
+        "originalPath": "/features/sentimentdriven-sprint-review"
+      },
+      {
+        "id": "ai-burnoutsentiment-detection-across-stan",
+        "title": "ai burnoutsentiment detection across stan",
+        "originalPath": "/features/ai-burnoutsentiment-detection-across-stan"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "ai-autoassignment-by-skills-and-workload"
+    ],
+    "ai": true,
+    "representativeId": "ai-autoassignment-by-skills-and-workload",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "ai-autoassignment-by-skills-and-workload",
+        "title": "ai autoassignment by skills and workload",
+        "originalPath": "/features/ai-autoassignment-by-skills-and-workload"
+      }
+    ]
+  }
+]
